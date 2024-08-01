@@ -4,7 +4,7 @@
 <p>
    In this section, I implemented insertion and searching operations for a binary search tree. I ensured that the program handles duplicate elements gracefully by printing ignored values and displaying the tree level by level after all insertions.
 </p>
-<img src="https://github.com/user-attachments/assets/e23476bd-20bb-4e9e-8404-4ac0985bd01a" width="100" height="100" alt="BST1">
+<img src="https://github.com/user-attachments/assets/e23476bd-20bb-4e9e-8404-4ac0985bd01a" width="200" height="200" alt="BST1">
 
 <h2>Graph Representation</h2>
 <p>
