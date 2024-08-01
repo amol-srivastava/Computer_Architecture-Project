@@ -22,7 +22,7 @@
 
 <h2>Data Representation</h2>
 <p>
-   For the final part of the assignment, I converted decimal numbers to 8-bit and 16-bit IEEE-754 floating-point representations. The results for each input number are printed in a precise format.
+   For the final part of this project, I converted decimal numbers to 8-bit and 16-bit IEEE-754 floating-point representations. The results for each input number are printed in a precise format.
 </p>
 <div style="display: flex; align-items: center;">
    <img src="https://github.com/user-attachments/assets/8d3d376d-0f71-4919-9116-bbb335dba839" width="200" height="200" alt="BST7">
