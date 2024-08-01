@@ -6,6 +6,9 @@
    Binary Search Tree
 In this section, I implemented insertion and searching operations for a binary search tree. I ensured that the program handles duplicate elements gracefully by printing ignored values and displaying the tree level by level after all insertions.
 </h2>
+<img src="![BST1](https://github.com/user-attachments/assets/e23476bd-20bb-4e9e-8404-4ac0985bd01a)"
+   width = 100px
+   length = 100px>
 
 <h2>
 Graph Representation
