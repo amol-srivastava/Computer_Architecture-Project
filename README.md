@@ -1,6 +1,6 @@
 
 
-
+<h1>C Project #1</h1>
 
 Binary Search Tree
 In this section, I implemented insertion and searching operations for a binary search tree. I ensured that the program handles duplicate elements gracefully by printing ignored values and displaying the tree level by level after all insertions.
